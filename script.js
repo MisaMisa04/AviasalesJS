@@ -156,5 +156,3 @@ getData(calendar,(data) => {
     console.log('Через min-prices:');
     console.log(data);
 });
-
-console.log(document);
